@@ -1,136 +1,63 @@
+🟧 آپدیت پروکسیهای تمام اپراتورها 
 
-<!DOCTYPE html>
-<html lang="fa">
-<head>
-  <meta charset="UTF-8">
-  <title>لیست پروکسی‌های تلگرام</title>
-  <style>
-    body {
-      font-family: Tahoma, sans-serif;
-      background-color: #f4f6f8;
-      color: #333;
-      padding: 30px;
-    }
-    h2 {
-      text-align: center;
-      color: #0077cc;
-      margin-bottom: 10px;
-    }
-    p {
-      text-align: center;
-      margin-bottom: 25px;
-      font-size: 15px;
-    }
-    .container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 40px;
-    }
-    .column {
-      flex: 1;
-      min-width: 280px;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-    li {
-      background-color: #fff;
-      border: 1px solid #ddd;
-      border-radius: 10px;
-      margin-bottom: 15px;
-      padding: 12px;
-      transition: background 0.3s;
-    }
-    li:hover {
-      background-color: #e6f2ff;
-    }
-    a {
-      text-decoration: none;
-      color: #0077cc;
-      font-weight: bold;
-    }
-    a:hover {
-      color: #004466;
-    }
-  </style>
-</head>
-<body>
-  <h2>✅ لیست پروکسی‌های MTProto فعال</h2>
-  <p>برای اتصال سریع، فقط روی لینک مورد نظر کلیک کن 👇</p>
+https://t.me/proxy?server=daemi-pr.shesh-station.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
 
-  <div class="container">
-    <div class="column">
-      <ul>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۳</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۴</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۵</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۶</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۷</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۸</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۹</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱۰</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱۱</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱۲</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱۳</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱۴</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱۵</a></li>
-      </ul>
-    </div>
-<div class="column">
-      <ul>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱۶</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱۷</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱۸</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱۹</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۰</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۱</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۲</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۳</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۴</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۵</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۶</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۷</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۸</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۹</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۳۰</a></li>
-      </ul>
-    </div>
-  </div>
-<div style="text-align: center; margin-top: 50px; font-size: 14px; color: #888;">
-    ✨ طراحی شده با عشق توسط <strong>تیم پروکسی دائمی تلگرام</strong>  
-    | اتصال سریع، استفاده آسان، امنیت بالا 💙
-  </div>
-</body>
-</html>
+https://t.me/proxy?server=systemfull.gjesus.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
 
-<div class="column">
-      <ul>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱۶</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱۷</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱۸</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۱۹</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۰</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۱</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۲</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۳</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۴</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۵</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۶</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۷</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۸</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۲۹</a></li>
-        <li><a href="https://t.me/proxy?server=...">پروکسی شماره ۳۰</a></li>
-      </ul>
-    </div>
-  </div>
-<div style="text-align: center; margin-top: 50px; font-size: 14px; color: #888;">
-    ✨ طراحی شده با عشق توسط <strong>تیم پروکسی دائمی تلگرام</strong>  
-    | اتصال سریع، استفاده آسان، امنیت بالا 💙
-  </div>
-</body>
-</html>
+https://t.me/proxy?server=response.cinere.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=daemi-pr.shesh-station.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=halftime.parsintalk.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=algortim.sayaair.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=daem.fsaremi.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=iran-vatan.magalaiash.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=leveldaemi.fiziotr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=algortim.sayaair.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=response.cinere.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=aval.fsaremi.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=ryzen-gold.shesh-station.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=syczleck.itemag.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=sadra.mygrade.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=syczleck.itemag.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=wait.fiziotr.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=leveldaemi.fiziotr.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=wait.fiziotr.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=chernobill.technote.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=phyzyk.nokande.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=sadra.mygrade.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=silvermantain.cinere.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=daem.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=halftime.parsintalk.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=sibilkoloft.technote.ir&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=aval.fsaremi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+https://t.me/proxy?server=sibilkoloft.technote.ir&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+
+https://t.me/proxy?server=sebro.sheshko.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
+
+🔶برای اتصال دائمی و ارتقاء با آپدیت ها عضو دوکانال خودتان شوید.
+🔸 @P1000Y 👈کانال تو
+🔸 @P500Y 👈کانال شما
